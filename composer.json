@@ -10,7 +10,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
         "php": "^7.4|^8.0",
         "symfony/http-foundation": "^5.2@dev",
@@ -18,7 +17,7 @@
         "symfony/yaml": "5.x-dev",
         "vlucas/phpdotenv": "^5.1@dev",
         "illuminate/filesystem": "8.20.1",
-        "georgelemon/lowless-framework": "dev-master",
+        "georgelemon/lowless-framework": "dev-main",
         "georgelemon/dessert": "1.3"
     },
     "autoload": {
