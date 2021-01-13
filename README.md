@@ -22,7 +22,7 @@ Fully Object Oriented, with Composer support - all you need is creativity. 🤪
 - [ ] Add personal projects made with Loopless (almost there)
 
 ### Projects made w/ Loopless
-If you made something cool with Loopless, let me know by creating an issue and I will put it here!
+If you made something cool with Loopless, let me know by creating an issue and I will put it here! In case you need some inspiration have a look at the folowing projects I made <3
 
 #### [WikiPeep](https://georgelemon.com/projects/wikipeep/) - An Open Source Wiki for Busy Devs. <kbd>WIP</kbd>
 Powered by Loopless, Symfony Console, Markdown and JSON. Using WikiPeep you can create modern wiki documentation without dealing with databases. [Github Repository](https://github.com/georgelemon/wikipeep) <code>GPLv3</code>
