@@ -39,7 +39,7 @@ The content editor that really lets you write. Based on Electron. Available for 
 🍰 [Dessert](https://github.com/georgelemon/dessert) <code>PHP</code> <kbd>GPLv3</kbd><br>
 Server Side Builder, Renderer & Manager for all your Icon Libraries that replace Webfonts or heavy Javascript libraries. Instead, it collects all your icons and store them as XML collections and render on request in no-time!
 
-🚀 [Camino.js](https://github.com/georgelemon/dessert) <code>PHP</code> <kbd>GPLv3</kbd><br>
+🚀 [Camino.js](https://github.com/georgelemon/camino.js) <code>PHP</code> <kbd>GPLv3</kbd><br>
 A fluent PHP API library that lets you write Vanilla JavaScript code directly from PHP.
 
 ### Do you have a nice project in mind?
